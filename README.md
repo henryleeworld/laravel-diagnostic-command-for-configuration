@@ -1,4 +1,4 @@
-# Laravel 7 診斷設定指令
+# Laravel 8 診斷設定指令
 
 引入 hi-folks 的 lara-lens 套件來擴增診斷設定指令，幫忙診斷應用程式所執行的設定、運行參數、資料庫連線、HTTP 連結等。
 
@@ -24,5 +24,5 @@ $ php artisan laralens:diagnostic
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/vGiOwgF.png)
+![](https://i.imgur.com/mk1IvUy.png)
 > 診斷應用程式所執行的設定、運行參數、資料庫連線、HTTP 連結等
